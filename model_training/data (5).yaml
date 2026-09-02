@@ -1,0 +1,8 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+
+nc: 14
+names: ['rice leaf roller', 'rice leaf caterpillar', 'paddy stem maggot', 'asiatic rice borer', 'yellow rice borer', 'rice gall midge', 'brown plant hopper', 'rice stem fly', 'rice water weevil', 'rice leaf hopper', 'rice shell pest', 'thrips', 'pest', 'non pest']
+
