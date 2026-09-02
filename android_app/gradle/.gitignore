@@ -1,0 +1,50 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (contains SDK path, machine-specific)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (if you use Firebase, don't commit this)
+google-services.json
+
+# Python (if your repo also has training/prep scripts)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Model/dataset folders — only ignore if you're hosting these elsewhere
+# dataset/
+# *.pt
