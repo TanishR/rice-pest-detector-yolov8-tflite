@@ -86,18 +86,4 @@ Dataset Preparation → Model Training (YOLOv8) → Model Optimization
 ### Retrain the Model (optional)
 Training scripts and the dataset split are in `model_training/`. See inline comments for the Ultralytics YOLOv8 training configuration used (50 epochs, SGD, 640×640 input).
 
-## 📄 Citation
 
-If you use this work, please cite the associated paper (details to be added once published):
-
-> T. Ranjan, Y. Kashyap, R. K. Sinha, S. S. Sahu, "Lightweight YOLOv8-TFLite on Edge Devices for Real-Time Rice Pest Detection Without Cloud Dependency," *Computers and Electronics in Agriculture* (Elsevier), under review.
-
-## 👤 Author
-
-**Tanish Ranjan**
-Birla Institute of Technology Mesra
-[LinkedIn](https://www.linkedin.com/in/tanishranjan52/) · [GitHub](https://github.com/TanishR)
-
-## 📝 License
-
-Specify a license here (e.g. MIT) once you decide how you want others to use this code.
