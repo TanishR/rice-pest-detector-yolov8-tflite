@@ -48,3 +48,4 @@ venv/
 # Model/dataset folders — only ignore if you're hosting these elsewhere
 # dataset/
 # *.pt
+.idea/
